@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="HideLayout">
+        <attr name="position" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="left_top" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="right_top" value="3"/>
+            <enum name="right" value="4"/>
+            <enum name="right_bottom" value="5"/>
+            <enum name="bottom" value="6"/>
+            <enum name="left_bottom" value="7"/>
+        </attr>
+    </declare-styleable>
+</resources>
